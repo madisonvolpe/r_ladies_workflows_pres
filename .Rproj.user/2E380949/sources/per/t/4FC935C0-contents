@@ -1,0 +1,8 @@
+# install package if not already downloaded 
+# install.packages("Rserve")
+
+# load package 
+library(Rserve)
+
+# run Rserve to connect to Tableau 
+Rserve::Rserve(args = '--no-save')

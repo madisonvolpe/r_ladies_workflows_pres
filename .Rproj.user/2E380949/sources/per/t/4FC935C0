@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1564865733520.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3148709744",
+    "id" : "4FC935C0",
+    "lastKnownWriteTime" : 1564866156,
+    "last_content_update" : 1564866156569,
+    "path" : "~/Documents/r_ladies/r_ladies_pres/initiate_integration.R",
+    "project_path" : "initiate_integration.R",
+    "properties" : {
+        "cursorPosition" : "0,0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
